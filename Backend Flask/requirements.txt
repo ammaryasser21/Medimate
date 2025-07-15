@@ -1,0 +1,13 @@
+Flask
+Flask-CORS
+google-generativeai
+opencv-python
+Pillow
+pdf2image
+datasets
+huggingface_hub
+python-dotenv
+paddleocr
+pydantic
+typing-extensions
+requests

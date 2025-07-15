@@ -1,0 +1,17 @@
+ICON REPLACEMENT INSTRUCTIONS:
+
+1. Replace the following files with your actual Medimate icons:
+
+   - public/favicon.ico (16x16, 32x32, or 48x48 pixels) - Use the BLUE Medimate icon
+   - public/medimate-blue.png - Blue Medimate icon
+   - public/medimate-black.png - Black Medimate icon  
+   - public/medimate-white.png - White Medimate icon
+
+2. Icon URLs:
+   - Blue icon: https://drive.google.com/file/d/1rrTMJBJ4BSnel1bmn8FEnrp-tmOUKXX6/view?usp=drivesdk
+   - Black icon: https://drive.google.com/file/d/1rm_Z1taQ_aR1i2mrQsY_L_oiRs66swuK/view?usp=drivesdk
+   - White icon: https://drive.google.com/file/d/1s3yMDn8Vo9qPLuAL6VWpyUucyqDMPD7_/view?usp=drivesdk
+
+3. The blue icon should be used as the main favicon for the website.
+
+4. After replacing the icons, the application will automatically use them instead of the brain icon. 
